@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className="row text-center" >
+    <div className="container-fluid row text-center" >
       <div className="col-lg-4 col-md-6 mb-5">
         Quickly design and customize responsive mobile-first sites with
         Bootstrap, the world’s most popular front-end open source toolkit,
